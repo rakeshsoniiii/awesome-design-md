@@ -239,7 +239,7 @@ Each site includes:
 2. Tell your AI agent to use it.
 
 
-## Contributing
+## Contributing.
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
